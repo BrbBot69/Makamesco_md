@@ -40,12 +40,12 @@ ezra({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =>
 ┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
 ┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : Mesh Matheka
 ┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : MAKAMESCO
+┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : ♤𝗑ᴾᴿᴼ♧
 ┃⊛└────••••────➻
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `Makamesco 𝙼𝚍 𝙲𝚖𝚍`;
+    let menuMsg = `BALLAS𝗑ᴾᴿᴼ 𝙲𝚖𝚍`;
     
     for (const cat in coms) {
         menuMsg += `
