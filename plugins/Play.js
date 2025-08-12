@@ -90,11 +90,11 @@ ezra({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*MAKAMESCO MD AUDIOS*\n
+      caption: BALLAS𝗑ᴾᴿᴼ AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in 🇰🇪 
+┊ *Made:* in 🇿🇦 
 ┊ *Quality:* High
-┊ *Powered:* by makamescotech 
+┊ *Powered:* by ♤𝗑ᴾᴿᴼ♧ 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
 🌐 *Bot Repo:* https://github.com/sesco001/Makamesco_md
 
@@ -114,11 +114,11 @@ ezra({
         },
       },
       {
-      caption: `\n*MAKAMESCO MD AUDIOS*\n
+      caption: `\n*BALLAS𝗑ᴾᴿᴼ AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in 🇰🇪 
+┊ *Made:* in 🇿🇦 
 ┊ *Quality:* High
-┊ *Powered:* by makamescotech 
+┊ *Powered:* by ♤𝗑ᴾᴿᴼ♧ 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
 🌐 *Bot Repo:* https://github.com/sesco001/Makamesco_md
 
@@ -138,11 +138,11 @@ ezra({
         },
       },
       {
-      caption: `\n*MAKAMESCO MD AUDIOS*\n
+      caption: `\n*BALLAS𝗑ᴾᴿᴼ AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in 🇰🇪 
+┊ *Made:* in 🇿🇦 
 ┊ *Quality:* High
-┊ *Powered:* by makamesco tech 
+┊ *Powered:* by ♤𝗑ᴾᴿᴼ♧
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
 🌐 *Bot Repo:* https://github.com/sesco001/Makamesco_md
 
@@ -239,11 +239,11 @@ ezra({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*MAKAMESCO MD AUDIOS*\n
+      caption: `\n*BALLAS𝗑ᴾᴿᴼ AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in 🇰🇪 
+┊ *Made:* in 🇿🇦 
 ┊ *Quality:* High
-┊ *Powered:* by Makamesco 
+┊ *Powered:* by ♤𝗑ᴾᴿᴼ♧ 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
 🌐 *Bot Repo:* https://github.com/sesco001/Makamesco_md
 
@@ -263,11 +263,11 @@ ezra({
         },
       },
       {
-      caption: `\n*MAKAMESCO MD AUDIOS*\n
+      caption: `\n*BALLAS𝗑ᴾᴿᴼ AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Nairobi Kenya
+┊ *Made:* in Johannesburg South Africa
 ┊ *Quality:* High
-┊ *Powered:* by MAKAMESCO 
+┊ *Powered:* by ♤𝗑ᴾᴿᴼ♧ 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
 🌐 *Bot Repo:* https://github.com/sesco001/Makamesco_md
 
