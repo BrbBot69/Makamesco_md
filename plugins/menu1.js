@@ -62,7 +62,7 @@ ezra({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =>
     }
     
     menuMsg += `
-> Made By Meshack Matheka ᴛᴇᴄʜ\n`;
+> Made By BALLAS𝗑ᴾᴿᴼ\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
@@ -71,7 +71,7 @@ ezra({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =>
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: " MAkamesco-MD MENU LIST",
+                    title: " BALLAS𝗑ᴾᴿᴼ MENU LIST",
                     body: "Dont worry bro I have more tap to follow",
                     thumbnailUrl: "https://files.catbox.moe/wu6lu4.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S",
