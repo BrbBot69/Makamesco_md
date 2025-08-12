@@ -149,7 +149,7 @@ ezra({ nomCom: "link", categorie: 'Fredi-Group', reaction: "🚜" }, async (dest
 
   let mess = `hello ${nomAuteurMessage} , here is the group link for ${nomGroupe} \n
 
-Grp link :${lien} \n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢  ☢️MAKAMESCO MD☢️`
+Grp link :${lien} \n\n★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢  ☢️LUCKY-MD-XFORCE☢️`
   repondre(mess)
 
 
