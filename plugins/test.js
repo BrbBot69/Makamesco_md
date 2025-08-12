@@ -7,7 +7,7 @@ ezra(
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
-            "Hello I'm *✧⁠LUCKY_MD✧* \n\n " +
+            "Hello I'm *✧⁠BALLAS𝗑ᴾᴿᴼ✧* \n\n " +
             "I'm a Whatsapp Bot Multi-Device";
         let d = " Made By *Fredie Sir*";
         let varmess = z + d;
